@@ -1,4 +1,4 @@
 # Your code here
-def meal_choice(veg1, veg2, protein = "meat")
+def meal_choice("broccoli", "macaroni", protein = "meat")
   return meal_choice
 end
